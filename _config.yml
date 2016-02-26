@@ -1,0 +1,28 @@
+name: Albert Junghoon Choi
+favicon: null
+layout_spectrum: 0.11080011469312012
+typography_spectrum: 0.7782236281782389
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.32619341532699764
+  lightness: 0.6344800859224051
+  saturation: 0.8655555020086467
+  rhythmicContrast: 0.4599426530767232
+purpose: []
